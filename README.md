@@ -1,4 +1,4 @@
-# LeetCode DSA Python 
+# LeetCode DSA Python Solution
 
 This repository contains my solutions to LeetCode problems using Python.  
 I am using this repository to practice Data Structures and Algorithms, improve problem-solving skills, and prepare for coding interviews.
