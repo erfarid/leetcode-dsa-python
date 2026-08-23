@@ -11,7 +11,7 @@ class Solution:
 
         k = 1
         for num in nums:
-            if k == 0 or nums[k-1] != num :
+            if  nums[k-1] != num :
                 nums[k]= num
                 k+=1
         return k 
